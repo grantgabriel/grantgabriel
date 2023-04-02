@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello Peeps 🤩🙌
 
-<!--
-**grantgabriel/grantgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Grant Gabriel Tambunan, an IT Student at University of North Sumatra. 
 
-Here are some ideas to get you started:
+🌱 I’m currently learning about Web Development, UI/UX, Data Science, Mobile Programming, and a lotta more !<br>
+💬 Ask me about anything! Ill be happy to reply ^^<br>
+👯 I’m looking to collaborate on any Project, so feel free to reach me<br>
+📫 How to reach me: `grantgabriel30@gmail.com` or connect with me via linked-in at `linkedin.com/in/grantgabrieltambunan/`<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my interests:
+
+- 🎨 UI/UX
+- 🌐 Web Development
+- 📱 Mobile Development 
+- 📊 Data Science / Analyst
+- 👨‍💻 Competitive Programming
+- 🎮 Gaming
+- 🎵 Music
+
+Thanks for stopping by!
+
+🚀✨👨‍💻👨‍🎨🌌🌊📚🎮🌐🎵
