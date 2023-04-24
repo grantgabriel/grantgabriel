@@ -42,6 +42,77 @@ Here are some of my interests:
 - 🎮 Gaming
 - 🎵 Music
 
+```typescript
+import { useCallback, useEffect, useState } from 'react';
+
+interface CurrentSchool {
+  institution: string;
+  position: string;
+}
+
+interface AboutMeState {
+  currentSchool: Partial<CurrentSchool>;
+  dailyKnowledge: string[];
+  fullName: string;
+}
+
+interface AboutMeHook {
+  aboutMe: AboutMeState;
+}
+
+export default function useAboutMe(): AboutMeHook {
+  const [aboutMe, setAboutMe] = useState<AboutMeState>({
+    currentSchool: {},
+    dailyKnowledge: [],
+    fullName: ''
+  });
+
+  const setFullName = useCallback(() => {
+    setAboutMe({
+      ...aboutMe,
+      fullName: 'Grant Gabriel Tambunan'
+    });
+  }, [aboutMe]);
+
+  const setCurrentSchool = useCallback(() => {
+    setAboutMe({
+      ...aboutMe,
+      currentSchool: {
+        institution: 'University of North Sumatra',
+        position: 'Software Engineer (Soon)'
+      }
+    });
+  }, [aboutMe]);
+
+  const setDailyKnowledge = useCallback(() => {
+    setAboutMe({
+      ...aboutMe,
+      dailyKnowledge: [
+        'JavaScript',
+        'TypeScript',
+        'React.js',
+        'Python',
+        'Laravel',
+        'Tailwind',
+        'Golang',
+        'CPP',
+        'Express.js',
+        'Git'
+      ]
+    });
+  }, [aboutMe]);
+
+  useEffect(() => {
+    setFullName();
+    setDailyKnowledge();
+    setCurrentSchool();
+  }, [setFullName, setDailyKnowledge, setCurrentSchool]);
+
+  return { aboutMe };
+}
+
+```
+
 Thanks for stopping by! ^3^)/ ~
 
 🚀✨👨‍💻👨‍🎨🌌🌊📚🎮🌐🎵
