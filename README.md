@@ -1,6 +1,6 @@
 # Hello Peeps 🤩🙌
 
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<!--> <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 I'm Grant Gabriel Tambunan, an IT Student at University of North Sumatra. 
 
@@ -50,9 +50,6 @@ I'm Grant Gabriel Tambunan, an IT Student at University of North Sumatra.
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
