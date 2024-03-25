@@ -1,0 +1,398 @@
+/* General styles start */
+
+@import url('https://fonts.googleapis.com/css2?family=Hind&family=Montserrat:wght@400;700&display=swap');
+
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 0 rgba(123, 183, 182, 0);
+    } 20% {
+        text-shadow: 0 0 2px rgba(123, 183, 182, 0.4), 0 0 4px rgba(123, 183, 182, 0.3), 0 0 6px rgba(123, 183, 182, 0.2), 0 0 8px rgba(123, 183, 182, 0.1);
+    } 80% {
+        text-shadow: 0 0 2px rgba(123, 183, 182, 0.4), 0 0 4px rgba(123, 183, 182, 0.3), 0 0 6px rgba(123, 183, 182, 0.2), 0 0 8px rgba(123, 183, 182, 0.1);
+    } 100% {
+        text-shadow: 0 0 0 rgba(123, 183, 182, 0);
+    }
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange }
+}
+
+@keyframes up-and-down {
+    0% {
+        transform: translateY(0);
+    } 50% {
+        transform: translateY(5px);
+    } 100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    } 100% {
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 1200px) {
+    .navbar-name {
+        display: none;
+        font-size: 15px;
+    }
+
+    .navbar-contents {
+        flex: 2;
+        font-size: 16px;
+    }
+
+    .about-me {
+        margin-top: 50px;
+    }
+
+    .professional-summary p {
+        font-size: 20px !important;
+    }
+
+    .skills-right p, .skills-left p {
+        text-align: center !important;
+        font-size: 20px !important;
+    }
+
+    .back-end-container, .data-science-container {
+        flex-direction: column !important;
+    }
+    
+    .front-end-container {
+        flex-direction: column-reverse !important;
+    }
+
+    .skills-img img {
+        width: 180px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-name {
+        display: none !important;
+    }
+
+    .navbar-contents {
+        flex: 2;
+        font-size: 16px;
+        flex-basis: 100%;
+    }
+
+    .brief-description {
+        flex-direction: column;
+        align-items: top !important;
+        justify-content: center;
+        text-align: center !important;
+    }
+
+    .my-nameHook h2{
+        font-size: 35px !important;
+    }
+
+    .professional-summary p {
+        font-size: 16px !important;
+    }
+
+    .interest h2 {
+        font-size: 35px !important;
+    }
+
+    .skills-right p, .skills-left p {
+        text-align: center !important;
+        font-size: 16px !important;
+    }
+
+    .skills-img img {
+        width: 150px !important;
+    }
+
+    .contact h2 {
+        font-size: 35px !important;
+    }
+}
+
+body {
+    background-color: #f5faf5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: inline;
+}
+
+.svg-container {
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../svg/color-step.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+/* General styles end */
+
+/* Navbar styles start */
+
+nav {
+    top: 0;
+    font-family: 'Montserrat';
+}
+
+.navbar-container {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    font-size: 20px;
+}
+
+.nav-child {
+    flex: 1;
+}
+
+.navbar-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease-in-out;
+    flex-basis: 30%;
+}
+
+.navbar-name:hover {
+    transform: scale(1.2);
+}
+
+.navbar-contents {
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 70%;
+}
+
+.navbar-section a {
+    text-decoration: none;
+    color: #122112;
+}
+
+.navbar-section a:hover {
+    color: #7bb7b6;
+}
+
+/* Navbar styles end */
+
+/* Main styles start */
+
+.about-me {
+    font-family: 'Hind';
+    width: 100%;
+    margin-top: 110px;
+}
+
+.brief-description {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.hook {
+    flex: 1;
+}
+
+.my-nameHook {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 70%;
+    overflow-y: auto;
+    word-wrap: break-word;
+}
+
+.my-nameHook h2 {
+    font-family: 'Montserrat';
+    font-size: 48px;
+    color: #122112;
+}
+
+.my-nameHook span {
+    color: #7bb7b6;
+    animation: glow 5s ease-in-out infinite;
+}
+
+.typewriter {
+    overflow: hidden;
+    border-right: .15em solid #000;
+    white-space: nowrap;
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+.my-image{
+    display: flex;
+    align-items: center;
+    flex-basis: 30%;
+}
+
+.my-image img {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.professional-summary {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.professional-summary div {
+    width: 80%;
+}
+
+.professional-summary p {
+    font-size: 23px;
+    font-family: 'Hind';
+    color: #38463a;
+    text-align: center;
+}
+
+.interest {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.interest h2 {
+    font-size: 48px;
+    color: #122112;
+    font-family: 'Montserrat';
+}
+
+.interest-description {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.interest-container {
+    width: 90%;
+}
+
+.back-end-container, .front-end-container, .data-science-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills {
+    flex: 1;
+}
+
+.skills-description {
+    flex-basis: 80%;
+}
+
+.skills-description p {
+    font-family: 'Hind';
+    font-size: 22px;
+    color: #38463a;
+}
+
+.skills-right p {
+    text-align: right;
+}
+
+.skills-description p span {
+    color: #7bb7b6;
+}
+
+.img-right {
+    animation: up-and-down 3s infinite ease-in-out;
+}
+
+.img-left {
+    animation: rotate 10s linear infinite ;
+}
+
+.img-right {
+    display: flex;
+    align-items: center;
+    flex-basis: 20%;
+    justify-content: right;
+}
+
+.img-left {
+    display: flex;
+    align-items: center;
+    flex-basis: 20%;
+    justify-content: left;
+}
+
+.skills-img img {
+    width: 250px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact h2 {
+    font-family: 'Montserrat';
+    font-size: 48px;
+    color: #122112;
+}
+
+.contact-description {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact-description a:hover {
+    fill: #122112;
+}
+
+/* Main styles end */
+
+/* Footer styles start */
+
+footer .footer-desc {
+    background-color: #122112;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    border-top-left-radius: 8%;
+    border-top-right-radius: 8%;
+}
+
+footer p {
+    font-family: 'Hind';
+    font-size: 22px;
+    color: #f5faf5;
+}
+
+/* Footer styles end */
+
+
