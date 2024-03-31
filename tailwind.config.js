@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./T2 - Tailwind-Components/*.{html,js}"],
+  content: ["./T3-Tailwind-Components/*.{html,js}"],
   theme: {
     extend: {},
   },
