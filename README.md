@@ -1,7 +1,5 @@
 # Hello Peeps 🤩🙌
 
-<!-- <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
-
 I'm Grant Gabriel Tambunan, an IT Student at University of North Sumatra. 
 
 🌱 I’m currently learning about Web Development, UI/UX, Data Science, Mobile Programming, and a lotta more !<br>
