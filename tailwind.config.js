@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./T3-Tailwind-Components/*.{html,js}"],
+  content: ["./T4-RegEx/*.{html,js}"],
   theme: {
     extend: {},
   },
