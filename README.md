@@ -140,7 +140,7 @@ interface AboutMeState {
 
 interface AboutMeHook {
   aboutMe: AboutMeState;
-}
+} 
 
 export default function useAboutMe(): AboutMeHook {
   const [aboutMe, setAboutMe] = useState<AboutMeState>({
