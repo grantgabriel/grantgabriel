@@ -3,12 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RegEx Usage</title>
+  <title>RegEx Usage | Grant</title>
   <link rel="stylesheet" href="style/build.css">
 </head>
-<body>
-  <main class="flex justify-center items-center w-full h-full">
-    
+<body class="bg-gray-100">
+  <main class="flex flex-row max-xl:flex-col justify-center items-center w-screen h-screen">
+    <div class="mx-auto mt-8 px-4 container">
+      <form id="regexForm" class="bg-white shadow-md mx-auto p-6 rounded-md max-w-md">
+        <label for="duplicate-input" class="block mb-2">RegEx Untuk Memeriksa Kata Yang Duplikat (Try: retep retep)</label>
+        <input type="text" id="duplicate-input" name="duplicate-input" class="mb-4 px-4 py-2 border focus:border-blue-400 rounded-md w-full focus:outline-none">
+        <div id="duplicate-message" class="mt-4"></div>
+      </form>
+    </div>    
+    <div class="mx-auto mt-8 px-4 container">
+      <form id="regexForm" class="bg-white shadow-md mx-auto p-6 rounded-md max-w-md">
+        <label for="password-input" class="block mb-2">RegEx Untuk Memeriksa Password Yang Kuat (Min. 1 Upper, 1 Sym, 1 Num, 1 Lower, Min. 8 chars)</label>
+        <input type="text" id="password-input" name="password-input" class="mb-4 px-4 py-2 border focus:border-blue-400 rounded-md w-full focus:outline-none">
+        <div id="password-message" class="mt-4"></div>
+      </form>
+    </div>    
   </main>
+
+  <script src="script/regex.js"></script>
+    
 </body>
 </html>
