@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "tailwindcss": "^3.4.1"
-  },
-  "scripts": {
-    "build": "npx tailwindcss -i T4-RegEx/style/input.css -o T4-RegEx/style/build.css  --watch"
-  }
-}

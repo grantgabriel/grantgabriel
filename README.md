@@ -1,202 +1,74 @@
-# Hello Peeps 🤩🙌
+<h1 align="center">Hi there, I'm Grant Gabriel Tambunan 👋</h1>
 
-I'm Grant Gabriel Tambunan, an IT Student at University of North Sumatra. 
+<h3 align="center">Software & Artificial Intelligence Engineer</h3>
 
-🌱 I’m currently learning about Web Development, UI/UX, Data Science, Mobile Programming, and a lotta more !<br>
-💬 Ask me about anything! Ill be happy to reply ^^<br>
-👯 I’m looking to collaborate on any Project, so feel free to reach me !<br>
-📫 How to reach me: `grantgabriel30@gmail.com` or connect with me via LinkedIn at `linkedin.com/in/grantgabrieltambunan/`<br>
-
-## Skills 
-
-<p align="center" style="margin: ">  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
-  </a> &nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://grantgabriel.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Portfolio-grantgabriel.my.id-0f172a?style=for-the-badge&logo=vercel" alt="Grant Gabriel Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/grantgabrieltambunan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
+---
 
-Here are some of my interests:
+## 🚀 About Me
 
-- ☁ Cloud Computing
-- 🌐 Web Development
-- 📱 Mobile Development 
-- 📊 Data Science / Analyst
-- 👨‍💻 Competitive Programming
-- 🎮 Gaming
-- 🎵 Music
+I'm a Software & Artificial Intelligence Engineer based in Indonesia. I specialize in Natural Language Processing (NLP), Image Processing, Full-Stack Software Engineering, and building AI-driven scalable solutions. 
 
-## My write-a-like
+- 💼 Ex AI Engineer (TTS) Intern at **PT Bahasa Kinerja Utama** & Ex Software Engineer Intern **PT Telkom Indonesia Tbk**.
+- 🎓 Valedictorian of 2026 at **Universitas Sumatera Utara** (4.00 GPA).
+- 🏆 Top 11 Startup of 8th IndonesiaNEXT, 3x Finalist of GemasTIK (Smart City and Programming), Most Outstanding Student (Mawapres) Fasilkom-TI USU and Best Innovation of Mawapres USU 2025.
+- 🌐 Dive deeper into my projects, research, and technical writing on my official website: **[grantgabriel.my.id](https://grantgabriel.my.id)**.
+- 📫 How to reach me: [grantgabriel30@gmail.com](mailto:grantgabriel30@gmail.com).
 
-```typescript
-import { useCallback, useEffect, useState } from 'react';
+<br>
 
-interface CurrentSchool {
-  institution: string;
-  position: string;
+
+## 💻 Tech Stack & Tools
+
+**Artificial Intelligence & Machine Learning**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/IndoBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="IndoBERT" /> <img src="https://img.shields.io/badge/MeloTTS-000000?style=flat-square&logo=soundcharts&logoColor=white" alt="MeloTTS" /> <img src="https://img.shields.io/badge/F5--TTS-000000?style=flat-square&logo=soundcharts&logoColor=white" alt="F5-TTS" />
+
+<br>
+
+**Frontend & Mobile**<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+
+<br>
+
+**Backend & Frameworks**<br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+<br>
+
+**Databases**<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+
+<br>
+
+**Cloud, DevOps & Tools**<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Laragon-00A4EF?style=flat-square&logo=laragon&logoColor=white" alt="Laragon" /> <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white" alt="Terminal" />
+
+## ⚡ Engineering Persona
+
+```go
+package profile
+
+type Engineer struct {
+	Name      string   `json:"name"`
+	Role      string   `json:"role"`
+	Focus     []string `json:"focus"`
+	Portfolio string   `json:"portfolio_url"`
 }
 
-interface AboutMeState {
-  currentSchool: Partial<CurrentSchool>;
-  dailyKnowledge: string[];
-  fullName: string;
+func GetProfile() Engineer {
+	return Engineer{
+		Name:      "Grant Gabriel Tambunan",
+		Role:      "Software & Artificial Intelligence Engineer",
+		Focus:     []string{"Full-Stack Software Engineering", "BackEnd Development", "NLP", "Image Processing", "Text-To-Speech", "Machine Learning"},
+		Portfolio: "https://grantgabriel.my.id",
+	}
 }
-
-interface AboutMeHook {
-  aboutMe: AboutMeState;
-}
-
-export default function useAboutMe(): AboutMeHook {
-  const [aboutMe, setAboutMe] = useState<AboutMeState>({
-    currentSchool: {},
-    dailyKnowledge: [],
-    fullName: ''
-  });
-
-  const setFullName = useCallback(() => {
-    setAboutMe({
-      ...aboutMe,
-      fullName: 'Grant Gabriel Tambunan'
-    });
-  }, [aboutMe]);
-
-  const setCurrentSchool = useCallback(() => {
-    setAboutMe({
-      ...aboutMe,
-      currentSchool: {
-        institution: 'University of North Sumatra',
-        position: 'Software Engineer (Soon)'
-      }
-    });
-  }, [aboutMe]);
-
-  const setDailyKnowledge = useCallback(() => {
-    setAboutMe({
-      ...aboutMe,
-      dailyKnowledge: [
-        'JavaScript',
-        'TypeScript',
-        'React.js',
-        'Python',
-        'Laravel',
-        'Tailwind',
-        'Golang',
-        'CPP',
-        'Next.js',
-        'Git',
-        'AWS',
-        'Gin'
-      ]
-    });
-  }, [aboutMe]);
-
-  useEffect(() => {
-    setFullName();
-    setDailyKnowledge();
-    setCurrentSchool();
-  }, [setFullName, setDailyKnowledge, setCurrentSchool]);
-
-  return { aboutMe };
-}
-
 ```
-
-Thanks for stopping by! ^3^)/ ~
-
-🚀✨👨‍💻👨‍🎨🌌🌊📚🎮🌐🎵
