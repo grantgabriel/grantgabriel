@@ -25,7 +25,6 @@ I'm a Software & Artificial Intelligence Engineer based in Indonesia. I speciali
 
 <br>
 
-
 ## 💻 Tech Stack & Tools
 
 **Artificial Intelligence & Machine Learning**<br>
@@ -50,6 +49,8 @@ I'm a Software & Artificial Intelligence Engineer based in Indonesia. I speciali
 
 **Cloud, DevOps & Tools**<br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Laragon-00A4EF?style=flat-square&logo=laragon&logoColor=white" alt="Laragon" /> <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white" alt="Terminal" />
+
+<br>
 
 ## ⚡ Engineering Persona
 
