@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a Software & Artificial Intelligence Engineer based in Indonesia. I specialize in Natural Language Processing (NLP), Image Processing, Full-Stack Software Engineering, and building AI-driven scalable solutions. 
+Software & Artificial Intelligence Engineer based in Indonesia. I specialize in Natural Language Processing (NLP), Image Processing, Full-Stack Software Engineering, and building AI-driven scalable solutions. 
 
 - 💼 Ex AI Engineer (TTS) Intern at **PT Bahasa Kinerja Utama** & Ex Software Engineer Intern **PT Telkom Indonesia Tbk**.
 - 🎓 Valedictorian of 2026 at **Universitas Sumatera Utara** (4.00 GPA).
@@ -73,3 +73,30 @@ func GetProfile() Engineer {
 	}
 }
 ```
+
+---
+
+## 🌱 Currently Working On
+
+- Building production-ready AI systems using LLMs and NLP
+- Exploring scalable backend architectures with Go
+- Conducting research in Indonesian Text-to-Speech
+- Writing technical articles and open-source projects
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing
+
+- Software Engineering
+- Artificial Intelligence
+- Open Source
+- Research Collaboration
+- Technology Innovation
+
+Feel free to reach out!
+
+📧 grantgabriel30@gmail.com
+
+🌐 https://grantgabriel.my.id
+
+💼 LinkedIn
